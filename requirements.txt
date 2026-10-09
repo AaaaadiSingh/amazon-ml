@@ -1,0 +1,24 @@
+# Core
+pandas>=2.0
+numpy>=1.24
+
+# String similarity
+rapidfuzz>=3.0
+jellyfish>=1.0
+
+# ML
+xgboost>=2.0
+scikit-learn>=1.3
+lightgbm>=4.0
+
+# Embedding & ANN
+sentence-transformers>=2.2
+faiss-cpu>=1.7
+torch>=2.0
+
+# Blocking
+datasketch>=1.6
+
+# Utilities
+tqdm>=4.65
+unidecode>=1.3
